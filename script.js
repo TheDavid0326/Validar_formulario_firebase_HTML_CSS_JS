@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDZL4McVsg1j1apIO0XQwe-UwYyDkiUC-g",
-    authDomain: "datos-de-formulario-a6da7.firebaseapp.com",
-    projectId: "datos-de-formulario-a6da7",
-    storageBucket: "datos-de-formulario-a6da7.firebasestorage.app",
-    messagingSenderId: "794080891571",
-    appId: "1:794080891571:web:f24de33d605ca2677856c6",
-    measurementId: "G-E0CV2EMQ6N"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 // Initialize Firebase
